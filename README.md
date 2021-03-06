@@ -9,14 +9,14 @@
 ## Popular Contents
 
 - [PipelineX: Python package to build production-ready pipelines for experimentation with Kedro, MLflow, and more](https://github.com/Minyus/pipelinex)
-[![PyPI version](https://badge.fury.io/py/pipelinex.svg)](https://badge.fury.io/py/pipelinex)
-[![Documentation](https://readthedocs.org/projects/pipelinex/badge/?version=latest)](https://pipelinex.readthedocs.io/)
+
+  [![PyPI version](https://badge.fury.io/py/pipelinex.svg)](https://badge.fury.io/py/pipelinex)
+  [![Documentation](https://readthedocs.org/projects/pipelinex/badge/?version=latest)](https://pipelinex.readthedocs.io/)
 
 - [CausalLift: Python package for causality-based Uplift Modeling in real-world business](https://github.com/Minyus/causallift)
-[![PyPI version](https://badge.fury.io/py/causallift.svg)](
-https://badge.fury.io/py/causallift
-)
-[![Documentation](https://readthedocs.org/projects/causallift/badge/?version=latest)](https://causallift.readthedocs.io/)
+
+  [![PyPI version](https://badge.fury.io/py/causallift.svg)](https://badge.fury.io/py/causallift)
+  [![Documentation](https://readthedocs.org/projects/causallift/badge/?version=latest)](https://causallift.readthedocs.io/)
 
 - [Comparison of Python pipeline packages: Airflow, Luigi, Gokart, Metaflow, Kedro, PipelineX](https://github.com/Minyus/Python_Packages_for_Pipeline_Workflow)
 
