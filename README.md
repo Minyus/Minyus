@@ -35,11 +35,11 @@
     - Xonsh
 - SQL
 - Bash
-- Infra
-    - Docker
-    - Kubernetes
-    - Git
-    - GitLab CI/CD
+- Docker
+- Kubernetes
+- Git
+- GitLab CI/CD
+- OpenAPI Specification
 - Vim 
 - Visual Studio Code (VS Code)
     - Draw.io
