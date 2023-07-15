@@ -48,11 +48,11 @@
 - CI/CD
   - GitLab CI/CD
 - Python formatting
-  - Black (Python auto-formatting for higher readability and debuggability)
-  - Ruff (Fast Python linter which can replace Flake8, its plugins, isort, etc. for higher readability and debuggability)
+  - Black (Python auto-formatting for early issue detection)
+  - Ruff (Fast Python linter which can replace Flake8, its plugins, isort, etc. for early issue detection)
 - Python packages
   - PyTorch
-    - MMPreTrain (MMClassification + MMSelfSup)
+    - MMPreTrain (formerly MMClassification and MMSelfSup)
   - TensorFlow
   - Scikit-learn
   - Pandas
