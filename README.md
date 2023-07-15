@@ -6,6 +6,8 @@
 - Machine Learning
 - Artificial Intelligence
 - Computer Vision
+- Causal Inference
+
 ## Popular Contents
 
 - [PipelineX: Python package to build production-ready pipelines for experimentation with Kedro, MLflow, and more](https://github.com/Minyus/pipelinex)
@@ -27,46 +29,54 @@
   ![Star](https://img.shields.io/github/stars/Minyus/Python_Packages_for_Pipeline_Workflow.svg?style=social&label=Star)
   ![Fork](https://img.shields.io/github/forks/Minyus/Python_Packages_for_Pipeline_Workflow.svg?style=social&label=Fork)
 
-## Technical skills/tools 
-- Python
-    - PyTorch
-    - TensorFlow
-    - Scikit-learn
-    - Pandas
-    - OpenCV
-    - Scikit-image
-    - Apache Airflow
-    - MLflow
-    - Kedro
-    - Xonsh
+## Tech stack
+
+- IDE
+  - VS Code
+- versioning
+  - Git
+- shell
+  - Bash
+  - Xonsh (Python-powered and pip-installable shell with suggestions imported from bash-completion)
+- terminal
+  - Wezterm (terminal with quick copying feature)
+- Editor
+  - Vim
+- containerization
+  - Docker
+  - Kubernetes
+- CI/CD
+  - GitLab CI/CD
+- Python formatting
+  - Black (Python auto-formatting for higher readability and debuggability)
+  - Ruff (Fast Python linter which can replace Flake8, its plugins, isort, etc. for higher readability and debuggability)
+- Python packages
+  - PyTorch
+    - MMPreTrain (MMClassification + MMSelfSup)
+  - TensorFlow
+  - Scikit-learn
+  - Pandas
+  - OpenCV
+  - Apache Airflow
+  - MLflow (ML Experiment tracking)
+  - Kedro
+- ML model serving
+  - ONNX
+  - Triton
 - SQL
-- Bash
-- Docker
-- Kubernetes
-- Git
-- GitLab CI/CD
-- OpenAPI Specification
-- Vim 
-- Visual Studio Code (VS Code)
-    - Draw.io
-    - Marp
-- Tableau
+  - Spark
+  - Trino (formerly PrestoSQL)
+- storage access
+  - rclone (Universal CLI to access remote storages such as S3, HDFS, etc.)
+- API framework
+  - OpenAPI Specification
 
 ## Natural languages
 
 - English
-    - United States (North East)
-    - Singapore (not Singlish)
-- Chinese
-    - Standard in China (North)
-    - Characters
-        - Simplified
-        - Traditional
+- Mandarin Chinese
 - Japanese
-    - Standard in Japan (Tokyo area)
-    - Dialect in West Japan (Osaka area)
 - Korean
-    - Standard in Korea (Seoul area)
 
 ## Contacts
 
