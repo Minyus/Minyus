@@ -2,13 +2,16 @@
 
 ## Interests
 
-- Data Science
+- AI
 - Machine Learning
-- Artificial Intelligence
+- Data Science
 - Computer Vision
+- Recommender Systems
+- Multi-modal Learning
 - Causal Inference
+- Healthcare
 
-## Popular Contents
+## Personal Projects
 
 - [PipelineX: Python package to build production-ready pipelines for experimentation with Kedro, MLflow, and more](https://github.com/Minyus/pipelinex)
 
@@ -29,10 +32,32 @@
   ![Star](https://img.shields.io/github/stars/Minyus/Python_Packages_for_Pipeline_Workflow.svg?style=social&label=Star)
   ![Fork](https://img.shields.io/github/forks/Minyus/Python_Packages_for_Pipeline_Workflow.svg?style=social&label=Fork)
 
+- [Kaggle NFL Big Data Bowl 42nd place solution](https://github.com/Minyus/kaggle_nfl)
+
+  ![Star](https://img.shields.io/github/stars/Minyus/kaggle_nfl.svg?style=social&label=Star)
+  ![Fork](https://img.shields.io/github/forks/Minyus/kaggle_nfl.svg?style=social&label=Fork)
+
+- [VS Code extension for SQL diagnostics](https://marketplace.visualstudio.com/items?itemName=Minyus.anysqldiag)
+
+  ![Star](https://img.shields.io/github/stars/Minyus/vscode-any-sql-diag.svg?style=social&label=Star)
+  ![Fork](https://img.shields.io/github/forks/Minyus/vscode-any-sql-diag.svg?style=social&label=Fork)
+
+- [Recurtx: CLI to recursively search and transform text files in xargs style](https://github.com/Minyus/recurtx)
+
+  ![Star](https://img.shields.io/github/stars/Minyus/recurtx.svg?style=social&label=Star)
+  ![Fork](https://img.shields.io/github/forks/Minyus/recurtx.svg?style=social&label=Fork)
+
+- [Ring Fit Mega Man: Gamified fitness with Nintendo Switch Ring Fit controller set](https://github.com/Minyus/RingFit_MegaMan)
+
+  ![Star](https://img.shields.io/github/stars/Minyus/RingFit_MegaMan.svg?style=social&label=Star)
+  ![Fork](https://img.shields.io/github/forks/Minyus/RingFit_MegaMan.svg?style=social&label=Fork)
+
 ## Tech stack
 
-- IDE
+- coding environment
   - VS Code
+  - Antigravity
+  - Claude Code
 - versioning
   - Git
 - shell
@@ -53,13 +78,18 @@
 - Python packages
   - PyTorch
     - MMPreTrain (formerly MMClassification and MMSelfSup)
+    - Hugging Face timm
   - TensorFlow
   - Scikit-learn
+  - Numpy
   - Pandas
+  - Polars
   - OpenCV
   - Apache Airflow
   - MLflow (ML Experiment tracking)
+  - LanceDB (ANN Vector Search)
   - Kedro
+- Golang
 - ML model serving
   - ONNX
   - Triton
@@ -80,6 +110,4 @@
 
 ## Contacts
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/yusukeminami/"><img height="30" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0/1590003577120?e=1623283200&v=beta&t=mIJx0uX-hpj4GBcjXh2UIGsQcpyUQSvNh7b5eNuKXe8"></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Minyus86"><img height="30" src="https://abs.twimg.com/responsive-web/client-web/icon-ios.b1fc7275.png"></a>
+- [LinkedIn](https://www.linkedin.com/in/yusukeminami/)
