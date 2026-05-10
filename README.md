@@ -54,32 +54,30 @@
 
 ## Tech stack
 
-- coding environment
-  - VS Code
-  - Antigravity
+- dev/coding/editing environment
+  - Wezterm (terminal with quick copying feature)
   - Claude Code
+  - OpenCode
+  - VS Code
+  - Vim
+  - Vifm
 - versioning
   - Git
+  - Lazygit
 - shell
   - Bash
   - Xonsh (Python-powered and pip-installable shell with suggestions imported from bash-completion)
-- terminal
-  - Wezterm (terminal with quick copying feature)
-- Editor
-  - Vim
 - containerization
   - Docker
   - Kubernetes
 - CI/CD
   - GitLab CI/CD
 - Python formatting
-  - Black (Python auto-formatting for early issue detection)
-  - Ruff (Fast Python linter which can replace Flake8, its plugins, isort, etc. for early issue detection)
+  - Ruff (Fast Python linter which can replace Flake8, its plugins, black, isort, etc. for early issue detection)
 - Python packages
   - PyTorch
-    - MMPreTrain (formerly MMClassification and MMSelfSup)
-    - Hugging Face timm
   - TensorFlow
+  - Hugging Face
   - Scikit-learn
   - Numpy
   - Pandas
@@ -87,15 +85,16 @@
   - OpenCV
   - Apache Airflow
   - MLflow (ML Experiment tracking)
-  - LanceDB (ANN Vector Search)
+  - LanceDB (Vector DB)
   - Kedro
 - Golang
 - ML model serving
   - ONNX
   - Triton
 - SQL
-  - Spark
+  - PostgreSQL
   - Trino (formerly PrestoSQL)
+  - Spark
 - storage access
   - rclone (Universal CLI to access remote storages such as S3, HDFS, etc.)
 - API framework
